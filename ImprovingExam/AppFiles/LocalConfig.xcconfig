@@ -1,0 +1,7 @@
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+CODE_SIGN_IDENTITY = iPhone Developer
+PRODUCT_BUNDLE_IDENTIFIER = com.example.ImprovingExam
+PRODUCT_BUNDLE_IDENTIFIER_TESTS = com.example.ImprovingExam
+DEVELOPMENT_TEAM = ""
