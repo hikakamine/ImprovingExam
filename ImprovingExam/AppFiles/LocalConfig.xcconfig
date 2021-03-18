@@ -3,5 +3,6 @@
 
 CODE_SIGN_IDENTITY = iPhone Developer
 PRODUCT_BUNDLE_IDENTIFIER = com.example.ImprovingExam
-PRODUCT_BUNDLE_IDENTIFIER_TESTS = com.example.ImprovingExam
+PRODUCT_BUNDLE_IDENTIFIER_TESTS = com.example.ImprovingExamTests
+PRODUCT_BUNDLE_IDENTIFIER_UI_TESTS = com.example.ImprovingExamUITests
 DEVELOPMENT_TEAM = ""
